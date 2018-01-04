@@ -5,4 +5,5 @@ _EN=Variables
 ++D=BOOL	N=Motor	G=VAR
 ++D=BOOL	N=StartPushButton	G=VAR
 ++D=BOOL	N=StopPushButton	G=VAR
+++D=BOOL	N=TestBit	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
