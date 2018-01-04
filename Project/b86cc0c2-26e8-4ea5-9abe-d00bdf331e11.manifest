@@ -3,6 +3,8 @@
   <Application applicationName="sysmac" applicationVersion="Infinity" />
   <Solution solutionName="Version Control Demo IK" id="b86cc0c2-26e8-4ea5-9abe-d00bdf331e11" trackingId="656fac75-c072-4c69-92d5-73e87aa7bc0d" solutionSchemaVersion="2">
     <ApplicationFeatures>
+      <ApplicationFeature name="HMI" />
+      <ApplicationFeature name="NA5-15W101☐Version:1.08" />
       <ApplicationFeature name="V102Project" />
       <ApplicationFeature name="SetUnit NX1P2-1040DT1 Ver. 1.16" />
       <ApplicationFeature name="TransferInfoAndBuildResultsEntitiesReduced" />
