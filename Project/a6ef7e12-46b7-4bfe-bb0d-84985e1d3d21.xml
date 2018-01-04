@@ -1,0 +1,1 @@
+﻿{"CLs":[{"__type":"LD","Var":"StartPushButton"},{"__type":"LD","Ix":2,"Var":"Motor","Y":1},{"__type":"LD","Ix":1,"Not":true,"Var":"StopPushButton","X":1},{"__type":"ST","Ix":3,"Var":"Motor","X":2}],"LRI":4,"RRI":5,"VLs":[{"Ix":6,"X":1}]}
